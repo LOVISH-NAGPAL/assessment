@@ -1,9 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# assessment" 
+Prompt for a Mindmap of the Above Table in React.js
+"Create a mindmap in React.js that visualizes a data table fetching posts from JSONPlaceholder API. The central node is 'Data Table' with three branches: 'Fetching Data' (async/await function), 'State Management' (Redux store, actions, reducers), and 'UI Rendering' (MUI Table with responsive design). Each branch has sub-nodes detailing implementation steps.
